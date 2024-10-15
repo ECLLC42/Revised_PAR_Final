@@ -1,0 +1,322 @@
+2024-10-14 10:33:54,959 - INFO - generate_full_report - Starting report generation for session 0bbdda14-7d71-4e9b-8d95-1e63fe659d71 (depth: 9)
+2024-10-14 10:33:54,960 - ERROR - generate_full_report - An error occurred during report generation: 'Config' object is not subscriptable
+2024-10-14 11:20:36,192 - INFO - generate_full_report - Starting report generation for session 8f23e023-674c-4a2d-ad6a-ce23b2648d24 (depth: 9)
+2024-10-14 11:20:36,195 - ERROR - generate_full_report - An error occurred during report generation: 'Config' object is not subscriptable
+2024-10-14 12:08:27,590 - INFO - generate_full_report - Starting report generation for session 44056147-4d05-4f8a-8079-c53101c0af2b
+2024-10-14 12:08:27,607 - INFO - generate_full_report - Downloading and extracting text from S3 files
+2024-10-14 12:08:27,608 - INFO - generate_full_report - Processing file: GAD_Results.pdf
+2024-10-14 12:08:27,912 - INFO - generate_full_report - Processing file: GARS_Results.pdf
+2024-10-14 12:08:28,179 - INFO - generate_full_report - Processing file: IntakeForm_Results.pdf
+2024-10-14 12:08:28,595 - INFO - generate_full_report - Processing file: KBIT_Results.pdf
+2024-10-14 12:08:28,904 - INFO - generate_full_report - Processing file: RAADSR_Results.pdf
+2024-10-14 12:08:29,158 - INFO - generate_full_report - Processing file: SRS2_Results.pdf
+2024-10-14 12:08:29,576 - INFO - generate_full_report - Processing file: Transcript.pdf
+2024-10-14 12:08:30,202 - INFO - generate_full_report - Processing file: Vineland_Results.pdf
+2024-10-14 12:08:30,814 - INFO - generate_full_report - Processing file: CATQ_Results.pdf
+2024-10-14 12:08:31,111 - INFO - generate_full_report - Generating report sections
+2024-10-14 12:11:01,785 - INFO - generate_full_report - Generating section: sections_1_3
+2024-10-14 12:11:01,788 - INFO - generate_full_report - Generating section: section_4
+2024-10-14 12:11:01,790 - INFO - generate_full_report - Generating section: section_5
+2024-10-14 12:11:01,791 - INFO - generate_full_report - Generating section: sections_6_7
+2024-10-14 12:11:01,791 - INFO - generate_full_report - Generating section: section_8
+2024-10-14 12:11:01,792 - INFO - generate_full_report - Generating section: sections_9_11
+2024-10-14 12:11:44,255 - INFO - generate_full_report - Generating section: sections_12_14
+2024-10-14 12:11:44,259 - INFO - generate_full_report - Generating section: section_15
+2024-10-14 12:11:44,261 - INFO - generate_full_report - Generating section: section_16
+2024-10-14 12:11:44,263 - INFO - generate_full_report - Generating PDFs
+2024-10-14 12:11:44,265 - ERROR - generate_full_report - An error occurred during report generation: maximum recursion depth exceeded
+2024-10-14 12:15:20,081 - INFO - generate_full_report - Starting report generation for session 6aab894c-14ec-4135-89ec-887af01ead46
+2024-10-14 12:15:20,092 - INFO - generate_full_report - Downloading and extracting text from S3 files
+2024-10-14 12:15:20,095 - INFO - generate_full_report - Processing file: GAD_Results.pdf
+2024-10-14 12:15:20,398 - INFO - generate_full_report - Processing file: GARS_Results.pdf
+2024-10-14 12:15:20,502 - INFO - generate_full_report - Starting report generation for session 99ca416f-f575-482f-b5a4-021c6d54ea11
+2024-10-14 12:15:20,513 - INFO - generate_full_report - Downloading and extracting text from S3 files
+2024-10-14 12:15:20,514 - INFO - generate_full_report - Processing file: GAD_Results.pdf
+2024-10-14 12:15:20,645 - INFO - generate_full_report - Starting report generation for session 69d9e60c-7bef-4f01-a796-ca9932c122bf
+2024-10-14 12:15:20,655 - INFO - generate_full_report - Downloading and extracting text from S3 files
+2024-10-14 12:15:20,656 - INFO - generate_full_report - Processing file: GAD_Results.pdf
+2024-10-14 12:15:20,743 - INFO - generate_full_report - Processing file: IntakeForm_Results.pdf
+2024-10-14 12:15:20,751 - INFO - generate_full_report - Processing file: GARS_Results.pdf
+2024-10-14 12:15:20,899 - INFO - generate_full_report - Processing file: GARS_Results.pdf
+2024-10-14 12:15:20,988 - INFO - generate_full_report - Processing file: IntakeForm_Results.pdf
+2024-10-14 12:15:21,135 - INFO - generate_full_report - Processing file: IntakeForm_Results.pdf
+2024-10-14 12:15:21,189 - INFO - generate_full_report - Processing file: KBIT_Results.pdf
+2024-10-14 12:15:21,368 - INFO - generate_full_report - Processing file: KBIT_Results.pdf
+2024-10-14 12:15:21,527 - INFO - generate_full_report - Processing file: RAADSR_Results.pdf
+2024-10-14 12:15:21,586 - INFO - generate_full_report - Processing file: KBIT_Results.pdf
+2024-10-14 12:15:21,770 - INFO - generate_full_report - Processing file: SRS2_Results.pdf
+2024-10-14 12:15:21,786 - INFO - generate_full_report - Processing file: RAADSR_Results.pdf
+2024-10-14 12:15:21,890 - INFO - generate_full_report - Processing file: RAADSR_Results.pdf
+2024-10-14 12:15:22,031 - INFO - generate_full_report - Processing file: SRS2_Results.pdf
+2024-10-14 12:15:22,126 - INFO - generate_full_report - Processing file: SRS2_Results.pdf
+2024-10-14 12:15:22,189 - INFO - generate_full_report - Processing file: Transcript.pdf
+2024-10-14 12:15:22,444 - INFO - generate_full_report - Processing file: Transcript.pdf
+2024-10-14 12:15:22,482 - INFO - generate_full_report - Processing file: Transcript.pdf
+2024-10-14 12:15:22,753 - INFO - generate_full_report - Processing file: Vineland_Results.pdf
+2024-10-14 12:15:23,047 - INFO - generate_full_report - Processing file: Vineland_Results.pdf
+2024-10-14 12:15:23,050 - INFO - generate_full_report - Processing file: Vineland_Results.pdf
+2024-10-14 12:15:23,314 - INFO - generate_full_report - Processing file: CATQ_Results.pdf
+2024-10-14 12:15:23,654 - INFO - generate_full_report - Processing file: CATQ_Results.pdf
+2024-10-14 12:15:23,665 - INFO - generate_full_report - Processing file: CATQ_Results.pdf
+2024-10-14 12:15:23,931 - INFO - generate_full_report - Generating report sections
+2024-10-14 12:15:23,956 - INFO - generate_full_report - Generating report sections
+2024-10-14 12:15:24,047 - INFO - generate_full_report - Generating report sections
+2024-10-14 12:17:51,258 - INFO - generate_full_report - Starting report generation for session 3b07e803-9d22-43c6-b394-53636c7a3d9c
+2024-10-14 12:17:51,357 - INFO - generate_full_report - Downloading and extracting text from S3 files
+2024-10-14 12:17:51,357 - INFO - generate_full_report - Processing file: GAD_Results.pdf
+2024-10-14 12:17:51,612 - INFO - generate_full_report - Processing file: GARS_Results.pdf
+2024-10-14 12:17:51,867 - INFO - generate_full_report - Processing file: IntakeForm_Results.pdf
+2024-10-14 12:17:52,269 - INFO - generate_full_report - Processing file: KBIT_Results.pdf
+2024-10-14 12:17:52,621 - INFO - generate_full_report - Processing file: RAADSR_Results.pdf
+2024-10-14 12:17:52,873 - INFO - generate_full_report - Processing file: SRS2_Results.pdf
+2024-10-14 12:17:53,298 - INFO - generate_full_report - Processing file: Transcript.pdf
+2024-10-14 12:17:53,953 - INFO - generate_full_report - Processing file: Vineland_Results.pdf
+2024-10-14 12:17:55,137 - INFO - generate_full_report - Processing file: CATQ_Results.pdf
+2024-10-14 12:17:55,454 - INFO - generate_full_report - Generating report sections
+2024-10-14 12:20:57,203 - INFO - generate_full_report - Generating section: sections_1_3
+2024-10-14 12:20:57,205 - INFO - generate_full_report - Generating section: section_4
+2024-10-14 12:20:57,205 - INFO - generate_full_report - Generating section: section_5
+2024-10-14 12:20:57,206 - INFO - generate_full_report - Generating section: sections_6_7
+2024-10-14 12:20:57,207 - INFO - generate_full_report - Generating section: section_8
+2024-10-14 12:20:57,208 - INFO - generate_full_report - Generating section: sections_9_11
+2024-10-14 12:21:46,037 - INFO - generate_full_report - Generating section: sections_12_14
+2024-10-14 12:21:46,040 - INFO - generate_full_report - Generating section: section_15
+2024-10-14 12:21:46,042 - INFO - generate_full_report - Generating section: section_16
+2024-10-14 12:21:46,043 - INFO - generate_full_report - Generating PDFs
+2024-10-14 12:21:46,046 - ERROR - generate_full_report - An error occurred during report generation: maximum recursion depth exceeded
+2024-10-14 12:35:19,894 - INFO - generate_full_report - Starting report generation for session 270bf654-fc7f-45d1-b7ae-beb2cca7c287
+2024-10-14 12:35:19,979 - INFO - generate_full_report - Downloading and extracting text from S3 files
+2024-10-14 12:35:19,979 - INFO - generate_full_report - Processing file: GAD_Results.pdf
+2024-10-14 12:35:20,216 - INFO - generate_full_report - Processing file: GARS_Results.pdf
+2024-10-14 12:35:20,477 - INFO - generate_full_report - Processing file: IntakeForm_Results.pdf
+2024-10-14 12:35:20,888 - INFO - generate_full_report - Processing file: KBIT_Results.pdf
+2024-10-14 12:35:21,193 - INFO - generate_full_report - Processing file: RAADSR_Results.pdf
+2024-10-14 12:35:21,481 - INFO - generate_full_report - Processing file: SRS2_Results.pdf
+2024-10-14 12:35:21,880 - INFO - generate_full_report - Processing file: Transcript.pdf
+2024-10-14 12:35:22,482 - INFO - generate_full_report - Processing file: Vineland_Results.pdf
+2024-10-14 12:35:23,053 - INFO - generate_full_report - Processing file: CATQ_Results.pdf
+2024-10-14 12:35:23,366 - INFO - generate_full_report - Generating report sections
+2024-10-14 12:38:02,861 - INFO - generate_full_report - Generating section: sections_1_3
+2024-10-14 12:38:02,866 - INFO - generate_full_report - Generating section: section_4
+2024-10-14 12:38:02,868 - INFO - generate_full_report - Generating section: section_5
+2024-10-14 12:38:02,869 - INFO - generate_full_report - Generating section: sections_6_7
+2024-10-14 12:38:02,871 - INFO - generate_full_report - Generating section: section_8
+2024-10-14 12:38:02,873 - INFO - generate_full_report - Generating section: sections_9_11
+2024-10-14 12:38:55,210 - INFO - generate_full_report - Generating section: sections_12_14
+2024-10-14 12:38:55,213 - INFO - generate_full_report - Generating section: section_15
+2024-10-14 12:38:55,214 - INFO - generate_full_report - Generating section: section_16
+2024-10-14 12:38:55,215 - INFO - generate_full_report - Generating PDFs
+2024-10-14 12:38:55,259 - ERROR - generate_full_report - An error occurred during report generation: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em>
+2024-10-14 14:15:53,838 - INFO - generate_full_report - Starting report generation for session 8aa30337-7232-4688-8514-f21eb6f54974
+2024-10-14 14:15:53,864 - INFO - generate_full_report - Downloading and extracting text from S3 files
+2024-10-14 14:15:53,865 - INFO - generate_full_report - Processing file: GAD_Results.pdf
+2024-10-14 14:15:54,112 - INFO - generate_full_report - Processing file: GARS_Results.pdf
+2024-10-14 14:15:54,406 - INFO - generate_full_report - Processing file: IntakeForm_Results.pdf
+2024-10-14 14:15:54,859 - INFO - generate_full_report - Processing file: KBIT_Results.pdf
+2024-10-14 14:15:55,207 - INFO - generate_full_report - Processing file: RAADSR_Results.pdf
+2024-10-14 14:15:55,521 - INFO - generate_full_report - Processing file: SRS2_Results.pdf
+2024-10-14 14:15:56,114 - INFO - generate_full_report - Processing file: Transcript.pdf
+2024-10-14 14:15:56,701 - INFO - generate_full_report - Processing file: Vineland_Results.pdf
+2024-10-14 14:15:59,166 - INFO - generate_full_report - Processing file: CATQ_Results.pdf
+2024-10-14 14:15:59,484 - INFO - generate_full_report - Generating report sections
+2024-10-14 14:17:41,486 - INFO - generate_full_report - Generating section: sections_1_3
+2024-10-14 14:17:41,491 - INFO - generate_full_report - Generating section: section_4
+2024-10-14 14:17:41,493 - INFO - generate_full_report - Generating section: section_5
+2024-10-14 14:17:41,495 - INFO - generate_full_report - Generating section: sections_6_7
+2024-10-14 14:17:41,497 - INFO - generate_full_report - Generating section: section_8
+2024-10-14 14:17:41,499 - INFO - generate_full_report - Generating section: sections_9_11
+2024-10-14 14:18:26,899 - INFO - generate_full_report - Generating section: sections_12_14
+2024-10-14 14:18:26,900 - INFO - generate_full_report - Generating section: section_15
+2024-10-14 14:18:26,902 - INFO - generate_full_report - Generating section: section_16
+2024-10-14 14:18:26,902 - INFO - generate_full_report - Generating PDFs
+2024-10-14 14:18:26,936 - ERROR - generate_full_report - An error occurred during report generation: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em>
+2024-10-14 14:20:24,722 - INFO - generate_full_report - Starting report generation for session 6bd6766d-f2ba-4ecc-945f-492da85881c4
+2024-10-14 14:20:24,735 - INFO - generate_full_report - Downloading and extracting text from S3 files
+2024-10-14 14:20:24,736 - INFO - generate_full_report - Processing file: GAD_Results.pdf
+2024-10-14 14:20:24,995 - INFO - generate_full_report - Processing file: GARS_Results.pdf
+2024-10-14 14:20:25,266 - INFO - generate_full_report - Processing file: IntakeForm_Results.pdf
+2024-10-14 14:20:25,714 - INFO - generate_full_report - Processing file: KBIT_Results.pdf
+2024-10-14 14:20:26,061 - INFO - generate_full_report - Processing file: RAADSR_Results.pdf
+2024-10-14 14:20:26,404 - INFO - generate_full_report - Processing file: SRS2_Results.pdf
+2024-10-14 14:20:26,811 - INFO - generate_full_report - Processing file: Transcript.pdf
+2024-10-14 14:20:27,433 - INFO - generate_full_report - Processing file: Vineland_Results.pdf
+2024-10-14 14:20:28,043 - INFO - generate_full_report - Processing file: CATQ_Results.pdf
+2024-10-14 14:20:28,345 - INFO - generate_full_report - Generating report sections
+2024-10-14 14:22:10,294 - INFO - generate_full_report - Generating section: sections_1_3
+2024-10-14 14:22:10,298 - INFO - generate_full_report - Generating section: section_4
+2024-10-14 14:22:10,299 - INFO - generate_full_report - Generating section: section_5
+2024-10-14 14:22:10,301 - INFO - generate_full_report - Generating section: sections_6_7
+2024-10-14 14:22:10,303 - INFO - generate_full_report - Generating section: section_8
+2024-10-14 14:22:10,305 - INFO - generate_full_report - Generating section: sections_9_11
+2024-10-14 14:22:53,095 - INFO - generate_full_report - Generating section: sections_12_14
+2024-10-14 14:22:53,099 - INFO - generate_full_report - Generating section: section_15
+2024-10-14 14:22:53,101 - INFO - generate_full_report - Generating section: section_16
+2024-10-14 14:22:53,103 - INFO - generate_full_report - Generating PDFs
+2024-10-14 14:22:53,152 - ERROR - generate_full_report - An error occurred during report generation: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em>
+2024-10-14 14:28:32,897 - INFO - generate_full_report - Starting report generation for session f334f023-17c6-4d3c-8e9a-5be1a02083ec
+2024-10-14 14:28:32,911 - INFO - generate_full_report - Downloading and extracting text from S3 files
+2024-10-14 14:28:32,912 - INFO - generate_full_report - Processing file: GAD_Results.pdf
+2024-10-14 14:28:33,145 - INFO - generate_full_report - Processing file: GARS_Results.pdf
+2024-10-14 14:28:33,405 - INFO - generate_full_report - Processing file: IntakeForm_Results.pdf
+2024-10-14 14:28:33,840 - INFO - generate_full_report - Processing file: KBIT_Results.pdf
+2024-10-14 14:28:34,140 - INFO - generate_full_report - Processing file: RAADSR_Results.pdf
+2024-10-14 14:28:34,455 - INFO - generate_full_report - Processing file: SRS2_Results.pdf
+2024-10-14 14:28:34,868 - INFO - generate_full_report - Processing file: Transcript.pdf
+2024-10-14 14:28:35,483 - INFO - generate_full_report - Processing file: Vineland_Results.pdf
+2024-10-14 14:28:36,060 - INFO - generate_full_report - Processing file: CATQ_Results.pdf
+2024-10-14 14:28:36,339 - INFO - generate_full_report - Generating report sections
+2024-10-14 14:30:06,448 - INFO - generate_full_report - Generating section: sections_1_3
+2024-10-14 14:30:06,451 - INFO - generate_full_report - Generating section: section_4
+2024-10-14 14:30:06,453 - INFO - generate_full_report - Generating section: section_5
+2024-10-14 14:30:06,455 - INFO - generate_full_report - Generating section: sections_6_7
+2024-10-14 14:30:06,457 - INFO - generate_full_report - Generating section: section_8
+2024-10-14 14:30:06,458 - INFO - generate_full_report - Generating section: sections_9_11
+2024-10-14 14:30:54,963 - INFO - generate_full_report - Generating section: sections_12_14
+2024-10-14 14:30:54,966 - INFO - generate_full_report - Generating section: section_15
+2024-10-14 14:30:54,967 - INFO - generate_full_report - Generating section: section_16
+2024-10-14 14:30:54,969 - INFO - generate_full_report - Generating PDFs
+2024-10-14 14:30:55,014 - ERROR - generate_full_report - An error occurred during report generation: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em>
+2024-10-14 14:35:45,483 - INFO - generate_full_report - Starting report generation for session 52aab9e0-c24f-4012-a3d7-4598c86b5f7b
+2024-10-14 14:35:45,504 - INFO - generate_full_report - Downloading and extracting text from S3 files
+2024-10-14 14:35:45,505 - INFO - generate_full_report - Processing file: GAD_Results.pdf
+2024-10-14 14:35:45,777 - INFO - generate_full_report - Processing file: GARS_Results.pdf
+2024-10-14 14:35:46,062 - INFO - generate_full_report - Processing file: IntakeForm_Results.pdf
+2024-10-14 14:35:46,520 - INFO - generate_full_report - Processing file: KBIT_Results.pdf
+2024-10-14 14:35:46,878 - INFO - generate_full_report - Processing file: RAADSR_Results.pdf
+2024-10-14 14:35:47,178 - INFO - generate_full_report - Processing file: SRS2_Results.pdf
+2024-10-14 14:35:47,612 - INFO - generate_full_report - Processing file: Transcript.pdf
+2024-10-14 14:35:48,184 - INFO - generate_full_report - Processing file: Vineland_Results.pdf
+2024-10-14 14:35:48,835 - INFO - generate_full_report - Processing file: CATQ_Results.pdf
+2024-10-14 14:35:49,238 - INFO - generate_full_report - Generating report sections
+2024-10-14 14:38:14,777 - INFO - generate_full_report - Generating section: sections_1_3
+2024-10-14 14:38:14,780 - INFO - generate_full_report - Generating section: section_4
+2024-10-14 14:38:14,782 - INFO - generate_full_report - Generating section: section_5
+2024-10-14 14:38:14,784 - INFO - generate_full_report - Generating section: sections_6_7
+2024-10-14 14:38:14,786 - INFO - generate_full_report - Generating section: section_8
+2024-10-14 14:38:14,788 - INFO - generate_full_report - Generating section: sections_9_11
+2024-10-14 14:39:07,345 - INFO - generate_full_report - Generating section: sections_12_14
+2024-10-14 14:39:07,349 - INFO - generate_full_report - Generating section: section_15
+2024-10-14 14:39:07,351 - INFO - generate_full_report - Generating section: section_16
+2024-10-14 14:39:07,352 - INFO - generate_full_report - Generating PDFs
+2024-10-14 14:39:07,404 - ERROR - generate_full_report - An error occurred during report generation: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em>
+2024-10-14 20:03:29,465 - INFO - generate_full_report - Starting report generation for session f9db6737-d694-4bf4-b245-712a19783ac1
+2024-10-14 20:03:29,596 - INFO - generate_full_report - Downloading and extracting text from S3 files
+2024-10-14 20:03:29,597 - INFO - generate_full_report - Processing file: GAD_Results.pdf
+2024-10-14 20:03:29,837 - INFO - generate_full_report - Processing file: GARS_Results.pdf
+2024-10-14 20:03:30,159 - INFO - generate_full_report - Processing file: IntakeForm_Results.pdf
+2024-10-14 20:03:30,581 - INFO - generate_full_report - Processing file: KBIT_Results.pdf
+2024-10-14 20:03:30,929 - INFO - generate_full_report - Processing file: RAADSR_Results.pdf
+2024-10-14 20:03:31,235 - INFO - generate_full_report - Processing file: SRS2_Results.pdf
+2024-10-14 20:03:31,672 - INFO - generate_full_report - Processing file: Transcript.pdf
+2024-10-14 20:03:32,351 - INFO - generate_full_report - Processing file: Vineland_Results.pdf
+2024-10-14 20:03:33,021 - INFO - generate_full_report - Processing file: CATQ_Results.pdf
+2024-10-14 20:03:33,320 - INFO - generate_full_report - Generating report sections
+2024-10-14 20:05:28,375 - INFO - generate_full_report - Generating section: sections_1_3
+2024-10-14 20:05:28,379 - INFO - generate_full_report - Generating section: section_4
+2024-10-14 20:05:28,381 - INFO - generate_full_report - Generating section: section_5
+2024-10-14 20:05:28,383 - INFO - generate_full_report - Generating section: sections_6_7
+2024-10-14 20:05:28,385 - INFO - generate_full_report - Generating section: section_8
+2024-10-14 20:05:28,388 - INFO - generate_full_report - Generating section: sections_9_11
+2024-10-14 20:06:22,835 - INFO - generate_full_report - Generating section: sections_12_14
+2024-10-14 20:06:22,839 - INFO - generate_full_report - Generating section: section_15
+2024-10-14 20:06:22,841 - INFO - generate_full_report - Generating section: section_16
+2024-10-14 20:06:22,842 - INFO - generate_full_report - Generating PDFs
+2024-10-14 20:06:22,846 - ERROR - generate_full_report - An error occurred during report generation: simple_markdown_to_pdf() takes 1 positional argument but 3 were given
+2024-10-14 20:15:48,742 - INFO - generate_full_report - Starting report generation for session a05675f3-43e2-46ab-b0d1-c81e6a8ff3c0
+2024-10-14 20:15:48,760 - INFO - generate_full_report - Downloading and extracting text from S3 files
+2024-10-14 20:15:48,761 - INFO - generate_full_report - Processing file: GAD_Results.pdf
+2024-10-14 20:15:49,016 - INFO - generate_full_report - Processing file: GARS_Results.pdf
+2024-10-14 20:15:49,290 - INFO - generate_full_report - Processing file: IntakeForm_Results.pdf
+2024-10-14 20:15:49,755 - INFO - generate_full_report - Processing file: KBIT_Results.pdf
+2024-10-14 20:15:50,078 - INFO - generate_full_report - Processing file: RAADSR_Results.pdf
+2024-10-14 20:15:50,347 - INFO - generate_full_report - Processing file: SRS2_Results.pdf
+2024-10-14 20:15:50,859 - INFO - generate_full_report - Processing file: Transcript.pdf
+2024-10-14 20:15:51,408 - INFO - generate_full_report - Processing file: Vineland_Results.pdf
+2024-10-14 20:15:53,765 - INFO - generate_full_report - Processing file: CATQ_Results.pdf
+2024-10-14 20:15:54,068 - INFO - generate_full_report - Generating report sections
+2024-10-14 20:17:42,829 - INFO - generate_full_report - Generating section: sections_1_3
+2024-10-14 20:17:42,834 - INFO - generate_full_report - Generating section: section_4
+2024-10-14 20:17:42,835 - INFO - generate_full_report - Generating section: section_5
+2024-10-14 20:17:42,838 - INFO - generate_full_report - Generating section: sections_6_7
+2024-10-14 20:17:42,840 - INFO - generate_full_report - Generating section: section_8
+2024-10-14 20:17:42,842 - INFO - generate_full_report - Generating section: sections_9_11
+2024-10-14 20:18:46,318 - INFO - generate_full_report - Generating section: sections_12_14
+2024-10-14 20:18:46,322 - INFO - generate_full_report - Generating section: section_15
+2024-10-14 20:18:46,326 - INFO - generate_full_report - Generating section: section_16
+2024-10-14 20:18:46,328 - INFO - generate_full_report - Generating PDFs
+2024-10-14 20:18:46,330 - ERROR - generate_full_report - An error occurred during report generation: simple_markdown_to_pdf() takes 1 positional argument but 3 were given
+2024-10-14 20:25:39,782 - INFO - generate_full_report - Starting report generation for session 1c3bbc90-51ff-40a8-a61e-1570a6651aff
+2024-10-14 20:25:39,805 - INFO - generate_full_report - Downloading and extracting text from S3 files
+2024-10-14 20:25:39,806 - INFO - generate_full_report - Processing file: GAD_Results.pdf
+2024-10-14 20:25:40,047 - INFO - generate_full_report - Processing file: GARS_Results.pdf
+2024-10-14 20:25:40,330 - INFO - generate_full_report - Processing file: IntakeForm_Results.pdf
+2024-10-14 20:25:40,748 - INFO - generate_full_report - Processing file: KBIT_Results.pdf
+2024-10-14 20:25:41,097 - INFO - generate_full_report - Processing file: RAADSR_Results.pdf
+2024-10-14 20:25:41,432 - INFO - generate_full_report - Processing file: SRS2_Results.pdf
+2024-10-14 20:25:41,842 - INFO - generate_full_report - Processing file: Transcript.pdf
+2024-10-14 20:25:42,394 - INFO - generate_full_report - Processing file: Vineland_Results.pdf
+2024-10-14 20:25:43,026 - INFO - generate_full_report - Processing file: CATQ_Results.pdf
+2024-10-14 20:25:43,330 - INFO - generate_full_report - Generating report sections
+2024-10-14 20:27:23,572 - INFO - generate_full_report - Generating section: sections_1_3
+2024-10-14 20:27:23,577 - INFO - generate_full_report - Generating section: section_4
+2024-10-14 20:27:23,580 - INFO - generate_full_report - Generating section: section_5
+2024-10-14 20:27:23,585 - INFO - generate_full_report - Generating section: sections_6_7
+2024-10-14 20:27:23,591 - INFO - generate_full_report - Generating section: section_8
+2024-10-14 20:27:23,593 - INFO - generate_full_report - Generating section: sections_9_11
+2024-10-14 20:28:04,435 - INFO - generate_full_report - Generating section: sections_12_14
+2024-10-14 20:28:04,438 - INFO - generate_full_report - Generating section: section_15
+2024-10-14 20:28:04,440 - INFO - generate_full_report - Generating section: section_16
+2024-10-14 20:28:04,441 - INFO - generate_full_report - Generating PDFs
+2024-10-14 20:28:04,443 - ERROR - generate_full_report - An error occurred during report generation: simple_markdown_to_pdf() takes 1 positional argument but 3 were given
+2024-10-14 20:32:19,731 - INFO - generate_full_report - Starting report generation for session 7b3e3ff7-eb28-4222-bdda-623dc5419af1
+2024-10-14 20:32:19,755 - INFO - generate_full_report - Downloading and extracting text from S3 files
+2024-10-14 20:32:19,761 - INFO - generate_full_report - Processing file: GAD_Results.pdf
+2024-10-14 20:32:20,185 - INFO - generate_full_report - Processing file: GARS_Results.pdf
+2024-10-14 20:32:20,481 - INFO - generate_full_report - Processing file: IntakeForm_Results.pdf
+2024-10-14 20:32:20,878 - INFO - generate_full_report - Processing file: KBIT_Results.pdf
+2024-10-14 20:32:21,212 - INFO - generate_full_report - Processing file: RAADSR_Results.pdf
+2024-10-14 20:32:21,456 - INFO - generate_full_report - Processing file: SRS2_Results.pdf
+2024-10-14 20:32:21,826 - INFO - generate_full_report - Processing file: Transcript.pdf
+2024-10-14 20:32:22,768 - INFO - generate_full_report - Processing file: Vineland_Results.pdf
+2024-10-14 20:32:23,353 - INFO - generate_full_report - Processing file: CATQ_Results.pdf
+2024-10-14 20:32:23,664 - INFO - generate_full_report - Generating report sections
+2024-10-14 20:34:18,079 - INFO - generate_full_report - Generating section: sections_1_3
+2024-10-14 20:34:18,082 - INFO - generate_full_report - Generating section: section_4
+2024-10-14 20:34:18,084 - INFO - generate_full_report - Generating section: section_5
+2024-10-14 20:34:18,085 - INFO - generate_full_report - Generating section: sections_6_7
+2024-10-14 20:34:18,087 - INFO - generate_full_report - Generating section: section_8
+2024-10-14 20:34:18,088 - INFO - generate_full_report - Generating section: sections_9_11
+2024-10-14 20:35:24,296 - INFO - generate_full_report - Generating section: sections_12_14
+2024-10-14 20:35:24,299 - INFO - generate_full_report - Generating section: section_15
+2024-10-14 20:35:24,300 - INFO - generate_full_report - Generating section: section_16
+2024-10-14 20:35:24,301 - INFO - generate_full_report - Generating PDFs
+2024-10-14 20:35:24,302 - ERROR - generate_full_report - An error occurred during report generation: simple_markdown_to_pdf() takes 1 positional argument but 3 were given
+2024-10-14 20:40:42,387 - INFO - generate_full_report - Starting report generation for session 899f3ca7-e4a4-4fb1-b452-5dfa855c5281
+2024-10-14 20:40:42,509 - INFO - generate_full_report - Downloading and extracting text from S3 files
+2024-10-14 20:40:42,510 - INFO - generate_full_report - Processing file: GAD_Results.pdf
+2024-10-14 20:40:42,766 - INFO - generate_full_report - Processing file: GARS_Results.pdf
+2024-10-14 20:40:43,029 - INFO - generate_full_report - Processing file: IntakeForm_Results.pdf
+2024-10-14 20:40:43,884 - INFO - generate_full_report - Processing file: KBIT_Results.pdf
+2024-10-14 20:40:44,238 - INFO - generate_full_report - Processing file: RAADSR_Results.pdf
+2024-10-14 20:40:44,513 - INFO - generate_full_report - Processing file: SRS2_Results.pdf
+2024-10-14 20:40:44,923 - INFO - generate_full_report - Processing file: Transcript.pdf
+2024-10-14 20:40:45,560 - INFO - generate_full_report - Processing file: Vineland_Results.pdf
+2024-10-14 20:40:46,144 - INFO - generate_full_report - Processing file: CATQ_Results.pdf
+2024-10-14 20:40:46,474 - INFO - generate_full_report - Generating report sections
+2024-10-14 20:42:55,621 - INFO - generate_full_report - Generating section: sections_1_3
+2024-10-14 20:42:55,624 - INFO - generate_full_report - Generating section: section_4
+2024-10-14 20:42:55,627 - INFO - generate_full_report - Generating section: section_5
+2024-10-14 20:42:55,628 - INFO - generate_full_report - Generating section: sections_6_7
+2024-10-14 20:42:55,629 - INFO - generate_full_report - Generating section: section_8
+2024-10-14 20:42:55,631 - INFO - generate_full_report - Generating section: sections_9_11
+2024-10-14 20:43:58,642 - INFO - generate_full_report - Generating section: sections_12_14
+2024-10-14 20:43:58,644 - INFO - generate_full_report - Generating section: section_15
+2024-10-14 20:43:58,645 - INFO - generate_full_report - Generating section: section_16
+2024-10-14 20:43:58,647 - INFO - generate_full_report - Generating PDFs
+2024-10-14 20:43:58,701 - INFO - generate_full_report - PDF generation completed
+2024-10-14 20:43:59,105 - INFO - generate_full_report - Report generation completed and uploaded for session 899f3ca7-e4a4-4fb1-b452-5dfa855c5281

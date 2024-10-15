@@ -1,0 +1,12 @@
+Flask
+Flask-Session
+PyPDF2
+openai
+gunicorn
+python-dotenv
+redis
+celery
+boto3
+reportlab
+weasyprint
+markdown2

@@ -1,0 +1,75 @@
+2024-10-14 16:03:15,580 ERROR: Task completed with error: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em> [in /Users/didntforeseethat/Revised_PAR/app.py:187]
+2024-10-14 16:03:21,542 INFO: Processing route accessed [in /Users/didntforeseethat/Revised_PAR/app.py:164]
+2024-10-14 16:03:21,556 INFO: Task state: SUCCESS [in /Users/didntforeseethat/Revised_PAR/app.py:171]
+2024-10-14 16:03:21,557 INFO: Task 0f9b84a9-9793-4a0b-b829-7e178e279d1e completed successfully [in /Users/didntforeseethat/Revised_PAR/app.py:179]
+2024-10-14 16:03:21,557 ERROR: Task completed with error: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em> [in /Users/didntforeseethat/Revised_PAR/app.py:187]
+2024-10-14 16:03:27,547 INFO: Processing route accessed [in /Users/didntforeseethat/Revised_PAR/app.py:164]
+2024-10-14 16:03:27,560 INFO: Task state: SUCCESS [in /Users/didntforeseethat/Revised_PAR/app.py:171]
+2024-10-14 16:03:27,561 INFO: Task 0f9b84a9-9793-4a0b-b829-7e178e279d1e completed successfully [in /Users/didntforeseethat/Revised_PAR/app.py:179]
+2024-10-14 16:03:27,561 ERROR: Task completed with error: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em> [in /Users/didntforeseethat/Revised_PAR/app.py:187]
+2024-10-14 16:03:33,542 INFO: Processing route accessed [in /Users/didntforeseethat/Revised_PAR/app.py:164]
+2024-10-14 16:03:33,554 INFO: Task state: SUCCESS [in /Users/didntforeseethat/Revised_PAR/app.py:171]
+2024-10-14 16:03:33,555 INFO: Task 0f9b84a9-9793-4a0b-b829-7e178e279d1e completed successfully [in /Users/didntforeseethat/Revised_PAR/app.py:179]
+2024-10-14 16:03:33,555 ERROR: Task completed with error: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em> [in /Users/didntforeseethat/Revised_PAR/app.py:187]
+2024-10-14 16:03:39,541 INFO: Processing route accessed [in /Users/didntforeseethat/Revised_PAR/app.py:164]
+2024-10-14 16:03:39,558 INFO: Task state: SUCCESS [in /Users/didntforeseethat/Revised_PAR/app.py:171]
+2024-10-14 16:03:39,559 INFO: Task 0f9b84a9-9793-4a0b-b829-7e178e279d1e completed successfully [in /Users/didntforeseethat/Revised_PAR/app.py:179]
+2024-10-14 16:03:39,559 ERROR: Task completed with error: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em> [in /Users/didntforeseethat/Revised_PAR/app.py:187]
+2024-10-14 16:03:45,543 INFO: Processing route accessed [in /Users/didntforeseethat/Revised_PAR/app.py:164]
+2024-10-14 16:03:45,556 INFO: Task state: SUCCESS [in /Users/didntforeseethat/Revised_PAR/app.py:171]
+2024-10-14 16:03:45,556 INFO: Task 0f9b84a9-9793-4a0b-b829-7e178e279d1e completed successfully [in /Users/didntforeseethat/Revised_PAR/app.py:179]
+2024-10-14 16:03:45,556 ERROR: Task completed with error: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em> [in /Users/didntforeseethat/Revised_PAR/app.py:187]
+2024-10-14 16:03:51,542 INFO: Processing route accessed [in /Users/didntforeseethat/Revised_PAR/app.py:164]
+2024-10-14 16:03:51,577 INFO: Task state: SUCCESS [in /Users/didntforeseethat/Revised_PAR/app.py:171]
+2024-10-14 16:03:51,577 INFO: Task 0f9b84a9-9793-4a0b-b829-7e178e279d1e completed successfully [in /Users/didntforeseethat/Revised_PAR/app.py:179]
+2024-10-14 16:03:51,577 ERROR: Task completed with error: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em> [in /Users/didntforeseethat/Revised_PAR/app.py:187]
+2024-10-14 16:03:57,543 INFO: Processing route accessed [in /Users/didntforeseethat/Revised_PAR/app.py:164]
+2024-10-14 16:03:57,558 INFO: Task state: SUCCESS [in /Users/didntforeseethat/Revised_PAR/app.py:171]
+2024-10-14 16:03:57,558 INFO: Task 0f9b84a9-9793-4a0b-b829-7e178e279d1e completed successfully [in /Users/didntforeseethat/Revised_PAR/app.py:179]
+2024-10-14 16:03:57,558 ERROR: Task completed with error: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em> [in /Users/didntforeseethat/Revised_PAR/app.py:187]
+2024-10-14 16:04:03,535 INFO: Processing route accessed [in /Users/didntforeseethat/Revised_PAR/app.py:164]
+2024-10-14 16:04:03,541 INFO: Task state: SUCCESS [in /Users/didntforeseethat/Revised_PAR/app.py:171]
+2024-10-14 16:04:03,541 INFO: Task 0f9b84a9-9793-4a0b-b829-7e178e279d1e completed successfully [in /Users/didntforeseethat/Revised_PAR/app.py:179]
+2024-10-14 16:04:03,541 ERROR: Task completed with error: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em> [in /Users/didntforeseethat/Revised_PAR/app.py:187]
+2024-10-14 16:04:09,547 INFO: Processing route accessed [in /Users/didntforeseethat/Revised_PAR/app.py:164]
+2024-10-14 16:04:09,564 INFO: Task state: SUCCESS [in /Users/didntforeseethat/Revised_PAR/app.py:171]
+2024-10-14 16:04:09,565 INFO: Task 0f9b84a9-9793-4a0b-b829-7e178e279d1e completed successfully [in /Users/didntforeseethat/Revised_PAR/app.py:179]
+2024-10-14 16:04:09,565 ERROR: Task completed with error: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em> [in /Users/didntforeseethat/Revised_PAR/app.py:187]
+2024-10-14 16:04:15,542 INFO: Processing route accessed [in /Users/didntforeseethat/Revised_PAR/app.py:164]
+2024-10-14 16:04:15,556 INFO: Task state: SUCCESS [in /Users/didntforeseethat/Revised_PAR/app.py:171]
+2024-10-14 16:04:15,556 INFO: Task 0f9b84a9-9793-4a0b-b829-7e178e279d1e completed successfully [in /Users/didntforeseethat/Revised_PAR/app.py:179]
+2024-10-14 16:04:15,556 ERROR: Task completed with error: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em> [in /Users/didntforeseethat/Revised_PAR/app.py:187]
+2024-10-14 16:04:21,539 INFO: Processing route accessed [in /Users/didntforeseethat/Revised_PAR/app.py:164]
+2024-10-14 16:04:21,552 INFO: Task state: SUCCESS [in /Users/didntforeseethat/Revised_PAR/app.py:171]
+2024-10-14 16:04:21,553 INFO: Task 0f9b84a9-9793-4a0b-b829-7e178e279d1e completed successfully [in /Users/didntforeseethat/Revised_PAR/app.py:179]
+2024-10-14 16:04:21,553 ERROR: Task completed with error: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em> [in /Users/didntforeseethat/Revised_PAR/app.py:187]
+2024-10-14 16:04:27,540 INFO: Processing route accessed [in /Users/didntforeseethat/Revised_PAR/app.py:164]
+2024-10-14 16:04:27,553 INFO: Task state: SUCCESS [in /Users/didntforeseethat/Revised_PAR/app.py:171]
+2024-10-14 16:04:27,553 INFO: Task 0f9b84a9-9793-4a0b-b829-7e178e279d1e completed successfully [in /Users/didntforeseethat/Revised_PAR/app.py:179]
+2024-10-14 16:04:27,553 ERROR: Task completed with error: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em> [in /Users/didntforeseethat/Revised_PAR/app.py:187]
+2024-10-14 16:04:33,620 INFO: Processing route accessed [in /Users/didntforeseethat/Revised_PAR/app.py:164]
+2024-10-14 16:04:33,625 INFO: Task state: SUCCESS [in /Users/didntforeseethat/Revised_PAR/app.py:171]
+2024-10-14 16:04:33,625 INFO: Task 0f9b84a9-9793-4a0b-b829-7e178e279d1e completed successfully [in /Users/didntforeseethat/Revised_PAR/app.py:179]
+2024-10-14 16:04:33,625 ERROR: Task completed with error: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em> [in /Users/didntforeseethat/Revised_PAR/app.py:187]
+2024-10-14 16:04:39,539 INFO: Processing route accessed [in /Users/didntforeseethat/Revised_PAR/app.py:164]
+2024-10-14 16:04:39,549 INFO: Task state: SUCCESS [in /Users/didntforeseethat/Revised_PAR/app.py:171]
+2024-10-14 16:04:39,549 INFO: Task 0f9b84a9-9793-4a0b-b829-7e178e279d1e completed successfully [in /Users/didntforeseethat/Revised_PAR/app.py:179]
+2024-10-14 16:04:39,549 ERROR: Task completed with error: 
+paragraph text "<para><p>Patient's Name: <strong><em>_</strong><strong></em><em></strong><strong></em><em></strong></em>_</para>" caused exception Parse error: saw </strong> instead of expected </em> [in /Users/didntforeseethat/Revised_PAR/app.py:187]
+2024-10-14 16:04:45,547 INFO: Processing route accessed [in /Users/didntforeseethat/Revised_PAR/app.py:164]
+2024-10-14 16:04:45,565 INFO: Task state: SUCCESS [in /Users/didntforeseethat/Revised_PAR/app.py:171]
+2024-10-14 16:04:45,565 INFO: Task 0f9b84a9-9793-4a0b-b829-7e178e279d1e completed successfully [in /Users/didntforeseethat/Revised_PAR/app.py:179]
